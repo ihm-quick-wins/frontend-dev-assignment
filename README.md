@@ -14,7 +14,7 @@ Create a website that meets all of the following requirements and, as closely as
 
 ![front-end-test-mockup](./home-page.png)
 
-Choose either the Plain HTML/CSS/JS or React path for the starting point of your assignment. Go with the option that allows you to produce the best quality site within the given assignment timeframe:
+#### Choose either the Plain HTML/CSS/JS or React path for the starting point of your assignment. Go with the option that allows you to produce the best quality site within the given assignment timeframe:
 - [ ] For Plain HTML/CSS/JS (no JS frameworks):
 
   - Start with [Bootstrap Starter Template](https://getbootstrap.com/docs/4.0/examples/starter-template/)
