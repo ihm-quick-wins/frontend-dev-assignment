@@ -4,6 +4,8 @@
 ### Introduction
 Please read all of the instructions provided below as it contains all of the required resources to successfully complete this coding test. This exercise is given to measure your technical coding ability to complete similar Tasks and Assignments you will receive in your role as a front-end developer on the Quick Wins Team.
 
+This assignment typically requires between 4-6 hours to achieve 100% completion.
+
 Thank you for taking the time to demonstrate your technical coding expertise!
 
 
